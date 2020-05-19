@@ -1,2 +1,2 @@
-# here is the H1 header!!!
-### followed by H3
+# Welcome to my cleaned-up portfolio!
+### *that doesn't look as clunky as what I originally entered*
