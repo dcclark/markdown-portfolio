@@ -1,1 +1,1 @@
-[random image](https://octodex.github.com/homercat/)
+![random image](https://octodex.github.com/homercat/)
