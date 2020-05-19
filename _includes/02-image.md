@@ -1,1 +1,1 @@
-![pic](https://pixabay.com/images/id-5170171/)
+![pic](https://github.com/dcclark/markdown-portfolio/blob/fixPic/IMG_1102.JPG)
