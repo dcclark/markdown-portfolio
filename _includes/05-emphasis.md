@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Here is a sentence that uses *italics* and **BOLD** for emphasis.
+How about ***BOLD ITALICS?!?!?!?***
